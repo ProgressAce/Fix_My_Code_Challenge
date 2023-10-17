@@ -27,6 +27,7 @@ class Square():
 
 
 if __name__ == "__main__":
+    """Entry point of script."""
 
     s = Square(width=12, height=9)
     print(s)
